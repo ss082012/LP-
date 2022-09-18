@@ -1,0 +1,31 @@
+.header {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.header-nav-list {
+  display: flex;
+}
+.header-nav-item{
+  margin-right: 20px;
+}
+
+.headline{
+  height: 500px;
+  position: relative;
+}
+.headline-img{
+  position: absolute;
+  right: 0;
+}
+.headline-first-text{
+  position: absolute;
+}
+.headline-second-text{
+  position: absolute;
+}
+.headline-third-text{
+  position: absolute;
+}
